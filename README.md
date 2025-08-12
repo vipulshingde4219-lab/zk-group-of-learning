@@ -22,3 +22,5 @@ Revocation system for expired or invalid proofs.
 5. Contract Address
 SP000000000000000000002Q6VF78.contract-zk-proof-of-learning
 (Replace with deployed address once deployed on Stacks mainnet/testnet)
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/88c1d897-29bd-4c71-b05c-40385a2671b1" />
+
